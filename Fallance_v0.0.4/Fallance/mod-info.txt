@@ -1,0 +1,11 @@
+[mod]
+title: Fallance
+description: A mod that adds the Fallance to your game
+
+tags: starting-units, units
+
+thumbnail: mod-thumbnail.png
+
+#[music]
+#sourceFolder: music
+#whenUsingUnitsFromThisMod_playExclusively: true

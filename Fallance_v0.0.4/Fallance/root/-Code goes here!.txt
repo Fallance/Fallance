@@ -1,0 +1,3 @@
+Examples:
+images\units\Savokers\file.png
+sounds\fire.ogg

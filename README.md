@@ -1,5 +1,5 @@
 # Fallance
-![icon](https://cdn.discordapp.com/attachments/692094330550091805/777907292489908234/logo2.png)
+![icon](https://cdn.discordapp.com/attachments/692094330550091805/777910786416443432/logo2_-_github.png)
 ## Description
 Fallance is a [Rusted Warfare](https://store.steampowered.com/app/647960/Rusted_Warfare__RTS/) Mod with intents to
 enhance gameplay by add spaceships, factions, and lore to the game.

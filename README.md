@@ -1,2 +1,2 @@
 # Fallance
-The mod
+This is a mod about space ship and teams.

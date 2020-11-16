@@ -1,22 +1,3 @@
-
-[core]
-name: Dynomicstation
-class: CustomUnitMetadata
-
-displayText: Dynomic Space Station
-displayDescription: Dynomic build ship
-techLevel: 1
-#availableInDemo: true
-radius: 140
-#displayRadius: 25
-isBio: false
-isBuilding: true
-canNotBeDirectlyAttacked: false
-isUnrepairableUnit: false
-tags: station
-disableAllUnitCollisions: true
-nukeOnDeath: true
-
 #----------Need to balance---------
 
 #footprint used for collisions with units (left, up, right, down)
@@ -68,43 +49,5 @@ name: DynomicCapital
 pos: 3
 # price: whatever
 # buildSpeed: whatever
-
-#----------------------------------
-[graphics]
-
-total_frames: 1
-image: images\units\Dynomic\DynomicStation.png
-#image_back: NONE
-image_shadow: auto
-imageScale: 0.85
-teamColoringMode: hueShift
-icon_zoomed_out:images\ui\icons\StationIcon.png
-#scaleImagesTo:20
-
-[attack]
-canAttack: false
-canAttackFlyingUnits: false
-canAttackLandUnits:   false
-canAttackUnderwaterUnits: true
-turretRotateWithBody: true
-
-#----------Need to balance---------
-
-maxAttackRange: 360
-
-#----------------------------------
-
-[movement]
-movementType: AIR
-turnAcceleration: 0.1
-
-#----------Need to balance---------
-
-moveSpeed: 0
-moveAccelerationSpeed: 0.01
-moveDecelerationSpeed: 0.01
-targetHeight: 23
-targetHeightDrift: 12
-maxTurnSpeed: 0
 
 #----------------------------------

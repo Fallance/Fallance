@@ -1,5 +1,5 @@
 [mod]
-title: Fallance v0.0.8
+title: Fallance v0.1.1
 description: A mod that adds the Fallance to your game
 
 tags: starting-units, units
